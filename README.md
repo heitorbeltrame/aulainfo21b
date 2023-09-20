@@ -19,4 +19,4 @@ Lista de Tarefas:
 
 Imagem:
 ![descricao](url_image)
-![Imagem de Teste](../img/imagemExemplo)
+![Imagem de Teste](../img/imagemExemplo.webp)
